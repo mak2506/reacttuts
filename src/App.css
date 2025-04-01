@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #0A0A0A;
+}
+
+
+#img1 {
+  background-image: url('./images/imag2.jpg');
+  height: 1000px;
+  /* width: 100%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#img2 {
+  background-image: url('./images/imag3.jpg');
+  height: 1000px;
+  /* width: 100%; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+#txt {
+   color: white;
+  /* offset: 1; */
+   font-size: 200px;
+  /* position: static;  */
+font-family: cursive;
+text-shadow: 20px 5px 15px rgb(107, 107, 107);
+}
+
+#txt2 {
+  color: white;
+ /* offset: 1; */
+  font-size: 200px;
+ /* position: static;  */
+font-family: cursive;
+/* text-shadow: 20px 5px 15px rgb(107, 107, 107); */
+}
