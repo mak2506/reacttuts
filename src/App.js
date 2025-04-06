@@ -12,8 +12,8 @@ function App() {
       <BrowserRouter>
         <Routes>
             <Route path="/reacttuts" element={ <Home/> } />
-            <Route path="tut1" element={<Tut1 />} />
-            <Route path="tut2" element={<Tut2 />} />
+            <Route path="/reacttuts/tut1" element={<Tut1 />} />
+            <Route path="/reacttuts/tut2" element={<Tut2 />} />
         </Routes>
       </BrowserRouter>
     // </div>
