@@ -11,7 +11,7 @@ function App() {
     // <div className="App">
       <BrowserRouter>
         <Routes>
-            <Route path="/" element={ <Home/> } />
+            <Route path="/reacttuts" element={ <Home/> } />
             <Route path="tut1" element={<Tut1 />} />
             <Route path="tut2" element={<Tut2 />} />
         </Routes>
