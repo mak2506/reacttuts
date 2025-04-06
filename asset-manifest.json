@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reacttuts/static/css/main.2bcffcc5.css",
-    "main.js": "/reacttuts/static/js/main.0202e8cf.js",
+    "main.js": "/reacttuts/static/js/main.4d930c44.js",
     "static/media/imag3.jpg": "/reacttuts/static/media/imag3.9daf65494a8efd7eca59.jpg",
     "static/media/imag4.jpg": "/reacttuts/static/media/imag4.69b6aae6a29c4f768697.jpg",
     "static/media/imag5.jpg": "/reacttuts/static/media/imag5.561a0f7e4079a1ee98ca.jpg",
@@ -9,10 +9,10 @@
     "static/media/img1.jpg": "/reacttuts/static/media/img1.150bad4b1e86079442d7.jpg",
     "index.html": "/reacttuts/index.html",
     "main.2bcffcc5.css.map": "/reacttuts/static/css/main.2bcffcc5.css.map",
-    "main.0202e8cf.js.map": "/reacttuts/static/js/main.0202e8cf.js.map"
+    "main.4d930c44.js.map": "/reacttuts/static/js/main.4d930c44.js.map"
   },
   "entrypoints": [
     "static/css/main.2bcffcc5.css",
-    "static/js/main.0202e8cf.js"
+    "static/js/main.4d930c44.js"
   ]
 }
